@@ -30,7 +30,7 @@ public class Calculadora {
     */
     
     /*
-    Modificación desde rama2 Modificado
+    Modificación desde rama2 modificado 
     */
     public static void main(String[] args) {
         // TODO code application logic here
