@@ -21,7 +21,9 @@ public class Calculadora {
         return this.res;
     }
     
-
+    /*
+    MODIFICACIÓN PARA APARTADO 2
+    */
     public static void main(String[] args) {
         // TODO code application logic here
     }
